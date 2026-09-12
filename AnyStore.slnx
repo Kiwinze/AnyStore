@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/DataBase/">
+    <File Path="AnyStoreDB.sql" />
+  </Folder>
+  <Project Path="AnyStore.BLL/AnyStore.BLL.csproj" Id="c0702a12-781e-4c45-a04c-9fadbdff93a9" />
+  <Project Path="AnyStore.DAL1/AnyStore.DAL.csproj" Id="dd868045-ab80-46f5-a81b-fa2f6de052f8" />
+  <Project Path="AnyStore/AnyStore.csproj" Id="fb430794-4cc9-4534-aad1-8cf8c94091e7" />
+</Solution>
